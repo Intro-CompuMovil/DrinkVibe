@@ -17,4 +17,5 @@
 - **Firebase**: La utilizaremos como herramienta para el desarrollo de la aplicación.
 - **GPS**: Se usará para crear el trayecto y guiar al usuario para que llegue a la discoteca.
 - **Cámaras**: Se usara para que las discotecas puedan subir un vistazo general de la discoteca, ademas los usuarios podran subir fotos mientras estan en la discoteca en la que hicieron reserva.
-- memoria interna: Se usa para poder descargar la aplicación, los terminos de uso y el comprobante de la reserva.
+- **memoria interna**: Se usa para poder descargar la aplicación, los terminos de uso y el comprobante de la reserva.
+- **Servicio web**: Para la inscripcion de establecimientos y creacion de eventos.
