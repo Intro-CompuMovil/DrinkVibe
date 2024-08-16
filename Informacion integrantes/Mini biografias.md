@@ -3,4 +3,4 @@
 **Mateo Maldonado Diaz**
 **Ingenieria de sistemas**
 **Sexto semestre**
-(Fotos/Foto Mateo.png)
+![Descripción de la imagen](Fotos/Foto_Mateo.png)
