@@ -1,5 +1,7 @@
 # EL TRIANGULO TECNOLOGICO
 
-**DrinkVibe** es una aplicación móvil diseñada para facilitar la reserva en discotecas. Con DrinkVibe, los usuarios pueden explorar las mejores discotecas en su área, hacer reservas de manera rápida y sencilla, y disfrutar de una experiencia nocturna sin complicaciones.
-## Características
+**DrinkVibe**: Somos un grupo de 3 personas entusiastas por la programacion movil
+
+## Mateo Maldonado Diaz
+Ingeniero de sistemas en sexto semestre, tiene 21 años y le gustan los videojuegos y el futbol.
 ![Descripción de la imagen](Fotos/FotoMateo.png)
