@@ -11,5 +11,5 @@ Ingeniero de sistemas y hace doble con finanzas, tiene 20 años y le gusta el fu
 ![Descripción de la imagen](Fotos/FotoEdward.png)
 
 ## Nicolas
-Ingeniero de sistemas en sexto semestre, tiene 21 años y le gustan los videojuegos y el futbol.
+Ingeniero de sistemas en sexto semestre, tiene 20 años y le gustan los instrumentos y el futbol.
 ![Descripción de la imagen](Fotos/FotoNicolas.png)
