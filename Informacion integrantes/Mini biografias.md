@@ -10,6 +10,6 @@ Ingeniero de sistemas en sexto semestre, tiene 21 años y le gustan los videojue
 Ingeniero de sistemas y hace doble con finanzas, tiene 20 años y le gusta el futsal y la moto velocidad.
 ![Descripción de la imagen](Fotos/FotoEdward.png)
 
-## Nicolas
+## Nicolas Hincapie
 Ingeniero de sistemas en sexto semestre, tiene 20 años y le gustan los instrumentos y el futbol.
 ![Descripción de la imagen](Fotos/FotoNicolas.png)
