@@ -7,7 +7,7 @@ Ingeniero de sistemas en sexto semestre, tiene 21 años y le gustan los videojue
 ![Descripción de la imagen](Fotos/FotoMateo.png)
 
 ## Edward Andres Quintero Palma
-Ingeniero de sistemas en sexto semestre, tiene 21 años y le gustan los videojuegos y el futbol.
+Ingeniero de sistemas y hace doble con finanzas, tiene 20 años y le gusta el futsal y la moto velocidad.
 ![Descripción de la imagen](Fotos/FotoEdward.png)
 
 ## Nicolas
