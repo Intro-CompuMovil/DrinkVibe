@@ -19,3 +19,6 @@
 - **Cámaras**: Se usara para que las discotecas puedan subir un vistazo general de la discoteca, ademas los usuarios podran subir fotos mientras estan en la discoteca en la que hicieron reserva.
 - **memoria interna**: Se usa para poder descargar la aplicación, los terminos de uso y el comprobante de la reserva.
 - **Servicio web**: Para la inscripcion de establecimientos y creacion de eventos.
+
+Comentarios Profesor
+Buen trabajo -> 5.0
