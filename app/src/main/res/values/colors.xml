@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="morado">#A29ED1</color>
+    <color name="azul">#00B2FF</color>
+    <color name="rojo">#FF0000</color>
+    <color name="rosa">#F2DFDF</color>
+    <color name="rosaheader">#DE8686</color>
+    <color name="amarilloestrella">#FFF500</color>
+    <color name="rosacalificar">#FACCCC</color>
+</resources>

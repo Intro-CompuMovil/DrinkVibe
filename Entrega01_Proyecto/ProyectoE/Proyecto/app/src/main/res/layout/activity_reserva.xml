@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFE4E1"
+    android:padding="16dp">
+
+    <!-- Encabezado del menú -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#E57373"
+        android:padding="16dp">
+
+        <!-- Menú icono -->
+        <ImageView
+            android:id="@+id/menu_icon"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentStart="true"
+            android:contentDescription="Menu" />
+
+        <!-- Título DrinkVibe -->
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="DrinkVibe"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <!-- Nombre del lugar -->
+    <TextView
+        android:id="@+id/place_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Monarca"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:paddingTop="8dp" />
+
+    <!-- Imagen del lugar -->
+    <ImageView
+        android:id="@+id/place_image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="16dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="Monarca Party" />
+
+    <!-- Correo -->
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Correo:"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="16dp" />
+
+    <!-- Teléfono -->
+    <EditText
+        android:id="@+id/phone"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Teléfono:"
+        android:inputType="phone"
+        android:layout_marginTop="8dp" />
+
+    <!-- Nombre -->
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Nombre:"
+        android:inputType="textPersonName"
+        android:layout_marginTop="8dp" />
+
+    <!-- Número de personas -->
+    <EditText
+        android:id="@+id/number_of_people"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="# Personas:"
+        android:inputType="number"
+        android:layout_marginTop="8dp" />
+
+    <!-- Botón Hacer Reserva -->
+    <Button
+        android:id="@+id/btn_reserve"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hacer Reserva"
+        android:backgroundTint="#F44336"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
