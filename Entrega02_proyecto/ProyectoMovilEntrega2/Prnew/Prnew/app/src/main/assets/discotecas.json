@@ -1,0 +1,46 @@
+[
+  {
+    "nombre": "Presea",
+    "direccion": "Ac. 85 #14-43",
+    "comentarios": [
+      "Excelente ambiente",
+      "Buena música",
+      "Atención rápida"
+    ],
+    "calificacion": 5,
+    "foto": "https://clubbin-images.s3.amazonaws.com/YEZylfFczdaZ.jpeg"
+  },
+  {
+    "nombre": "Monarca",
+    "direccion": "Kr13#82-52",
+    "comentarios": [
+      "Buena música",
+      "Ambiente acogedor",
+      "Precios accesibles"
+    ],
+    "calificacion": 4,
+    "foto": "https://www.evedesa.com/wp-content/uploads/2022/01/Monarca_10_febrero_-35.jpg"
+  },
+  {
+    "nombre": "Kyoto",
+    "direccion": "Cl85#12-11",
+    "comentarios": [
+      "Decoración moderna",
+      "Buenos cócteles",
+      "Ambiente animado"
+    ],
+    "calificacion": 4,
+    "foto": "https://clubbin-images.s3.amazonaws.com/hIakUN16F5l.jpeg"
+  },
+  {
+    "nombre": "Brutal",
+    "direccion": "Cl 83#14-17",
+    "comentarios": [
+      "Sonido excelente",
+      "Espacios amplios",
+      "Buena seguridad"
+    ],
+    "calificacion": 3,
+    "foto": "https://menu.tipsipro.com/media/uploads/A89CC887-F764-440E-B941-59460ADFE6A2.jpeg"
+  }
+]

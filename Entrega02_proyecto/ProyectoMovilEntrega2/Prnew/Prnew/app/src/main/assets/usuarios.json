@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "nombreCompleto": "Juan Pérez",
+      "email": "usuario1@example.com",
+      "contrasena": "password123",
+      "edad": 25
+    },
+    {
+      "nombreCompleto": "María López",
+      "email": "usuario2@example.com",
+      "contrasena": "password456",
+      "edad": 30
+    },
+    {
+      "nombreCompleto": "Carlos González",
+      "email": "usuario3@example.com",
+      "contrasena": "password789",
+      "edad": 22
+    },
+    {
+      "nombreCompleto": "Ana Fernández",
+      "email": "usuario4@example.com",
+      "contrasena": "passwordABC",
+      "edad": 28
+    },
+    {
+      "nombreCompleto": "Luis Ramírez",
+      "email": "usuario5@example.com",
+      "contrasena": "passwordXYZ",
+      "edad": 35
+    }
+  ]
+}

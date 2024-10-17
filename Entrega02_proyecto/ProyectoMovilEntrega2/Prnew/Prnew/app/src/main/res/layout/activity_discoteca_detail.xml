@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/rosa"
+    tools:context=".Logica.DiscotecaDetailActivity">
+
+    <!-- Nombre de la discoteca -->
+    <TextView
+        android:id="@+id/nombreTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre de la discoteca"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp" />
+
+    <!-- Dirección de la discoteca -->
+    <TextView
+        android:id="@+id/direccionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dirección"
+        app:layout_constraintTop_toBottomOf="@id/nombreTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp" />
+
+    <!-- Calificación de la discoteca -->
+    <TextView
+        android:id="@+id/calificacionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calificación: 5"
+        app:layout_constraintTop_toBottomOf="@id/direccionTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp" />
+
+    <!-- Imagen de la discoteca -->
+    <ImageView
+        android:id="@+id/fotoImageView"
+        android:layout_width="0dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="Foto de la discoteca"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/calificacionTextView" />
+
+    <!-- Comentarios de la discoteca -->
+    <TextView
+        android:id="@+id/comentariosTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Comentarios"
+        app:layout_constraintTop_toBottomOf="@id/fotoImageView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Botón Menú -->
+    <Button
+        android:id="@+id/menuButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menú"
+        app:layout_constraintTop_toBottomOf="@id/comentariosTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Botón Llegar -->
+    <Button
+        android:id="@+id/llegarButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Llegar"
+        app:layout_constraintTop_toBottomOf="@id/comentariosTextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Botón Calificar -->
+    <Button
+        android:id="@+id/calificarButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calificar"
+        app:layout_constraintTop_toBottomOf="@id/menuButton"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Botón Reservar -->
+    <Button
+        android:id="@+id/reservarButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reservar"
+        app:layout_constraintTop_toBottomOf="@id/llegarButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

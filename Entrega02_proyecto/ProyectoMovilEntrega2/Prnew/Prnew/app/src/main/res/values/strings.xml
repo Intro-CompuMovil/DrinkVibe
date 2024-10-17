@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prnew</string>
+    <string name="register"><u>Registrarse</u></string>
+    <string name="title_activity_mapa_con_google">MapaConGoogle</string>
+</resources>
